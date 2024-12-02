@@ -9,6 +9,8 @@
 3. run the .exe inside the folder
 4. input the information of "Server Name", "Username", "Password", and "Database Name" with the information of your SQL Server  
 Information of "server name", "username", and "password":
+
+
 ![image](https://github.com/user-attachments/assets/f277f494-6c18-462d-92fc-706005287d9e)
 
 Information of Database Name: 
