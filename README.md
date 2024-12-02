@@ -15,7 +15,8 @@ Information of "server name", "username", and "password":
 
 Information of Database Name: 
 
-![image](https://github.com/user-attachments/assets/c108ff45-e19d-4df1-bd6a-bc24bebdc999)
+![image](https://github.com/user-attachments/assets/75f8c0a1-58fe-4f53-bea3-575396950013)
+
 
 5. Input the SQL query you wanted to input and press enter. (The app only will send out a select result, other query will not give you any result on excel)
    
