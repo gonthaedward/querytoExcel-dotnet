@@ -4,7 +4,7 @@
 #How TO USE
 
 
-1. Download "QueryToExcel dotnet.zip"
+1. Download "QueryToExcel dotnet.zip" (click the file above and press "CTRL + SHIFT + S" 
 2. Unzip it
 3. run the .exe inside the folder
 4. input the information of "Server Name", "Username", "Password", and "Database Name" with the information of your SQL Server  
